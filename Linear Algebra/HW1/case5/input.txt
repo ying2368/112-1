@@ -1,0 +1,7 @@
+info.csv
+image.csv
+mask.csv
+40
+80
+40
+360
