@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\視窗\6\1111442_hw3\bin\Debug\1111442_hw3.exe.config
+C:\Users\User\Desktop\視窗\6\1111442_hw3\bin\Debug\1111442_hw3.exe
+C:\Users\User\Desktop\視窗\6\1111442_hw3\bin\Debug\1111442_hw3.pdb
+C:\Users\User\Desktop\視窗\6\1111442_hw3\obj\Debug\1111442_hw3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\視窗\6\1111442_hw3\obj\Debug\_1111442_hw3.Form1.resources
+C:\Users\User\Desktop\視窗\6\1111442_hw3\obj\Debug\_1111442_hw3.Properties.Resources.resources
+C:\Users\User\Desktop\視窗\6\1111442_hw3\obj\Debug\1111442_hw3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\視窗\6\1111442_hw3\obj\Debug\1111442_hw3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\視窗\6\1111442_hw3\obj\Debug\1111442_hw3.exe
+C:\Users\User\Desktop\視窗\6\1111442_hw3\obj\Debug\1111442_hw3.pdb

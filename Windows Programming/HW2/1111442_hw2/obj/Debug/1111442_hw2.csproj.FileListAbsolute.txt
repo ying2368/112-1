@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\bin\Debug\1111442_hw2.exe.config
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\bin\Debug\1111442_hw2.exe
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\bin\Debug\1111442_hw2.pdb
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\obj\Debug\1111442_hw2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\obj\Debug\_1111442_hw2.Form1.resources
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\obj\Debug\_1111442_hw2.Properties.Resources.resources
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\obj\Debug\1111442_hw2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\obj\Debug\1111442_hw2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\obj\Debug\1111442_hw2.exe
+C:\Users\User\Desktop\Homework\視窗\1111442_hw2\obj\Debug\1111442_hw2.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\bin\Debug\1111441_hw1.exe.config
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\bin\Debug\1111441_hw1.exe
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\bin\Debug\1111441_hw1.pdb
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\obj\Debug\1111441_hw1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\obj\Debug\_1111441_hw1.Form1.resources
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\obj\Debug\_1111441_hw1.Properties.Resources.resources
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\obj\Debug\1111441_hw1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\obj\Debug\1111441_hw1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\obj\Debug\1111441_hw1.exe
+C:\Users\User\Desktop\Homework\視窗\1111441_hw1\obj\Debug\1111441_hw1.pdb
